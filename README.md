@@ -57,7 +57,7 @@ Das Addon `yform_field` ergänzt YForm um weitere Feldtypen, Validierungen und A
 
 ### Patches
 
-`yform_field` repariert Bugs und Funktionen in YForm, wenn Felder oder Add-ons mit `yform_field` darauf basieren. Mithilfe von Patches werden Probleme damit auch vor Releases von YForm gelöst.
+`yform_field` repariert Bugs und Funktionen in YForm, wenn Felder von `yform_field` darauf basieren.
 
 #### Patches für YForm < 5
 
@@ -212,4 +212,4 @@ MIT Lizenz, siehe [LICENSE.md](https://github.com/FriendsOfREDAXO/yform_field/bl
 
 ## Credits
 
-Vielen Dank an **Alexander Walther** (<https://www.alexplus.de>) für die ursprüngliche Entwicklung und Bereitstellung dieses Addons als Open-Source-Projekt.
+Vielen Dank an **Alexander Walther** für die ursprüngliche Entwicklung und Bereitstellung dieses Addons als Open-Source-Projekt.
